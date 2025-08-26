@@ -1,15 +1,35 @@
-# test1
+# 🚀 March
 
-A Flutter project starter template.
+A Flutter starter template to kick off your next mobile project!  
 
-## Getting Started
+---
 
-This project provides a starting point for building a Flutter application.
+## 🏁 Getting Started
 
-### Resources
+This project provides a starting point for building a **Flutter application**. Follow the resources below if this is your first time with Flutter.
 
-If this is your first Flutter project, here are some helpful resources:
+---
 
-- [Flutter Codelab: Write your first app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter Cookbook: Useful Flutter examples](https://docs.flutter.dev/cookbook)
-- [Flutter Documentation](https://docs.flutter.dev/) – tutorials, samples, API reference, and guidance on mobile development.
+## 📚 Resources
+
+Here are some helpful resources to get you going:
+
+- 📝 [Flutter Codelab: Write your first app](https://docs.flutter.dev/get-started/codelab)  
+- 🍳 [Flutter Cookbook: Useful examples](https://docs.flutter.dev/cookbook)  
+- 📖 [Flutter Documentation](https://docs.flutter.dev/) – tutorials, API reference, and guides for mobile development
+
+---
+
+## ⚡ Features
+
+- Clean starter project structure  
+- Cross-platform ready: Android, iOS, Web, Windows, macOS, Linux  
+- Preconfigured `.gitignore` for Flutter projects
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/rywkoo/march-app.git
