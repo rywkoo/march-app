@@ -1,16 +1,15 @@
 # test1
 
-A new Flutter project.
+A Flutter project starter template.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project provides a starting point for building a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Resources
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+If this is your first Flutter project, here are some helpful resources:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Codelab: Write your first app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook: Useful Flutter examples](https://docs.flutter.dev/cookbook)
+- [Flutter Documentation](https://docs.flutter.dev/) – tutorials, samples, API reference, and guidance on mobile development.
